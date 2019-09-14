@@ -1,0 +1,29 @@
+{
+
+	"name": "avatar",
+	"description": "This is programmer art",
+	"version": "1.0.0",
+
+	"author": "Belminksy",
+	"license": "MIT",
+
+	"keywords": [
+		"avatar",
+		"paperjs",
+		"svg"
+	],
+
+	"main": "index.js",
+
+	"homepage": "https://github.com/belminksy/avatar",
+
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/belminksy/avatar.git"
+	},
+
+	"dependencies": {
+		"paper-jsdom-canvas": "~0.12.0"
+	}
+
+}
